@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1008384951429",
+    "project_id": "worksites-a510e",
+    "storage_bucket": "worksites-a510e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008384951429:android:a65b609bdeee3afda855ec",
+        "android_client_info": {
+          "package_name": "com.fixiply.worksites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008384951429-8rq5clkcncb2jnj966hrv6bi72ckm9uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fixiply.worksites",
+            "certificate_hash": "92716b6fe43305d3ab4ae5899ab6944474da99ac"
+          }
+        },
+        {
+          "client_id": "1008384951429-ernbvq2afnbuoc5k6l3mnf1vv3ft5ul0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fixiply.worksites",
+            "certificate_hash": "08e4cfb96ad3c30eec0653c58f9094d26672ab16"
+          }
+        },
+        {
+          "client_id": "1008384951429-u26qt73l6eli52nj27no27vophdvt0im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB55us_kiWnAW9atTK--TkfKjk5kwgrpwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008384951429-u26qt73l6eli52nj27no27vophdvt0im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
